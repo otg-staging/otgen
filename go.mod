@@ -1,6 +1,8 @@
 module github.com/open-traffic-generator/otgen
 
-go 1.19
+go 1.21
+
+toolchain go1.23.2
 
 require (
 	github.com/drone/envsubst v1.0.3
@@ -11,7 +13,7 @@ require (
 	github.com/open-traffic-generator/snappi/gosnappi v1.0.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.0
-	google.golang.org/protobuf v1.32.0
+	google.golang.org/protobuf v1.35.1
 )
 
 require (
