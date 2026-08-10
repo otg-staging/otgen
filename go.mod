@@ -11,7 +11,7 @@ require (
 	github.com/open-traffic-generator/snappi/gosnappi v1.40.3
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.10.1
-	google.golang.org/protobuf v1.36.10
+	google.golang.org/protobuf v1.36.12
 )
 
 require (
